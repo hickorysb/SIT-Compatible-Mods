@@ -23,6 +23,7 @@ This repo contains a list of mods compatible with SIT and relevant guides to ins
 - [PreyToLive-BetterSpawnPlus+BetterSpawn Variety](https://e.pcloud.link/publink/show?code=XZPdwnZqbKETcW3gfYu4oIYg6EwhkLvrvT7)
 - [Priscilu](https://hub.sp-tarkov.com/files/file/546-priscilu-the-trader/)
   - Known issue with armor being sold by this trader not working due to not yet having been upgraded to be compatible with v14's armor changes
+- [RamCleanerInterval](https://hub.sp-tarkov.com/files/file/1662-ram-cleaner-fix/)
 
 # Works With Manual Modification
 - [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Small Cases Fix](Guides/Fixes/SMALLCASES.md)
