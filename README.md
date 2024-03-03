@@ -25,7 +25,7 @@ This repo contains a list of mods compatible with SIT and relevant guides to ins
   - Known issue with armor being sold by this trader not working due to not yet having been upgraded to be compatible with v14's armor changes
 
 # Works With Manual Modification
-- [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Fanny Pack Fix]()
+- [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Small Cases Fix](Guides/Fixes/SMALLCASES.md)
 
 # Work In Progress Ports
 - [ServerValueModifier](https://pixeldrain.com/u/sWtnYoCF) - Being worked on by Mihai
@@ -37,3 +37,5 @@ This repo contains a list of mods compatible with SIT and relevant guides to ins
   - Requires SAIN above
 - [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/tag/v1.0.1) - Being worked on by North Western Bear (GitHub: @HickorySB)
 - [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/tag/v1.0.2) - Being worked on by North Western Bear (GitHub: @HickorySB)
+  - See [Installation Instructions](Guides/Installations/GamePanelHUD.md)
+- [MoreCheckmarks](https://github.com/hickorysb/SIT-Mod-Ports/releases/tag/morecheckmarks-v14-v1.1) - Being worked on by North Western Bear (GitHub: @HickorySB)
