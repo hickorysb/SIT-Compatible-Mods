@@ -1,5 +1,6 @@
 # SIT 1.10.8827.30098 (EFT v0.14.1.1.28965) Compatible Mods
 This repo contains a list of mods compatible with SIT and relevant guides to installing them if the procedure differs from the standard.
+This repo is only a list of compatible mods and you should not report bugs here, do not report SIT related bugs or errors to the original mod authors. If a port is being maintained by a community member, please either report bugs to the linked repo or in the Discord.
 
 *Nested lists are requirements for the above mod*
 
@@ -29,6 +30,7 @@ This repo contains a list of mods compatible with SIT and relevant guides to ins
 - [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Small Cases Fix](Guides/Fixes/SMALLCASES.md)
 
 # Work In Progress Ports
+*NOTE: Everything listed here "works", there may be bugs though*
 - [ServerValueModifier](https://pixeldrain.com/u/sWtnYoCF) - Being worked on by Mihai
 - [Loot Value](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-LootValue) - Being worked on by Private Ryan
 - [SAIN](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-SAIN) - Being worked on by Private Ryan
