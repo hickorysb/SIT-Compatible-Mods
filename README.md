@@ -36,6 +36,9 @@ This repo contains a list of mods compatible with SIT and relevant guides to ins
   - Known issue, bots may not be reloading properly. Issue is being investigated.
 - [Questing Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-QuestingBots) - Being worked on by Private Ryan
   - Requires SAIN above
+  - Known issue, bots may not be questing properly. Issue is being investigated.
+- [Amands Graphics](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-AmandsGraphics) - Being worked on by Private Ryan
+- [Amands Sense](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-AmandsSense) - Being worked on by Private Ryan
 - [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/tag/v1.0.1) - Being worked on by North Western Bear (GitHub: @HickorySB)
 - [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/tag/v1.0.2) - Being worked on by North Western Bear (GitHub: @HickorySB)
   - See [Installation Instructions](Guides/Installations/GamePanelHUD.md)
