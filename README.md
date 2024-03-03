@@ -24,6 +24,9 @@ This repo contains a list of mods compatible with SIT and relevant guides to ins
 - [Priscilu](https://hub.sp-tarkov.com/files/file/546-priscilu-the-trader/)
   - Known issue with armor being sold by this trader not working due to not yet having been upgraded to be compatible with v14's armor changes
 
+# Works With Manual Modification
+- [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Fanny Pack Fix]()
+
 # Work In Progress Ports
 - [ServerValueModifier](https://pixeldrain.com/u/sWtnYoCF) - Being worked on by Mihai
 - [Loot Value](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-LootValue) - Being worked on by Private Ryan
