@@ -31,6 +31,7 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [Live Flee Prices](https://hub.sp-tarkov.com/files/file/1561-live-flea-prices/)
 - [Remove Time Gate From Quests](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
 - [Configurable Inventories](https://hub.sp-tarkov.com/files/file/1728-configureable-inventories/)
+- [True Items](https://hub.sp-tarkov.com/files/file/1651-true-items/)
 
 # Works With Manual Modification
 - [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Small Cases Fix](Guides/Fixes/SMALLCASES.md)
