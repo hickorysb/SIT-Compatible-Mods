@@ -25,6 +25,9 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [Priscilu](https://hub.sp-tarkov.com/files/file/546-priscilu-the-trader/)
   - Known issue with armor being sold by this trader not working due to not yet having been upgraded to be compatible with v14's armor changes
 - [RamCleanerInterval](https://hub.sp-tarkov.com/files/file/1662-ram-cleaner-fix/)
+- [Live Flee Prices](https://hub.sp-tarkov.com/files/file/1561-live-flea-prices/)
+- [Remove Time Gate From Quests](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
+- [Configurable Inventories](https://hub.sp-tarkov.com/files/file/1728-configureable-inventories/)
 
 # Works With Manual Modification
 - [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Small Cases Fix](Guides/Fixes/SMALLCASES.md)
