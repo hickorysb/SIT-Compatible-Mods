@@ -40,9 +40,8 @@ This repo is only a list of compatible mods and you should not report bugs here,
 *NOTE: Everything listed here "works", there may be bugs though*
 - [ServerValueModifier](https://pixeldrain.com/u/sWtnYoCF) - Being worked on by Mihai
 - [Loot Value](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-LootValue) - Being worked on by Private Ryan
-- [SAIN](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-SAIN) - Being worked on by Private Ryan
+- [SAIN](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1.1-SAIN) - Being worked on by Private Ryan
   - Release includes all needed dependencies
-  - Known issue, bots may not be reloading properly. Issue is being investigated.
 - [Questing Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-QuestingBots) - Being worked on by Private Ryan
   - Requires SAIN above
   - Known issue, bots may not be questing properly. Issue is being investigated.
