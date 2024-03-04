@@ -44,7 +44,6 @@ This repo is only a list of compatible mods and you should not report bugs here,
   - Release includes all needed dependencies
 - [Questing Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-QuestingBots) - Being worked on by Private Ryan
   - Requires SAIN above
-  - Known issue, bots may not be questing properly. Issue is being investigated.
 - [Amands Graphics](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-AmandsGraphics) - Being worked on by Private Ryan
 - [Amands Sense](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-AmandsSense) - Being worked on by Private Ryan
 - [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
