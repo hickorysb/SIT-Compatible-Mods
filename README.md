@@ -48,3 +48,4 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
   - See [Installation Instructions](Guides/Installations/GamePanelHUD.md)
 - [MoreCheckmarks](https://github.com/hickorysb/SIT-Mod-Ports/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
+- [Boops Quest Zone API](https://github.com/hickorysb/BoopsQuestZoneAPI-SIT-14/releases/) - Being worked on by North Western Bear (GitHub: @HickorySB)
