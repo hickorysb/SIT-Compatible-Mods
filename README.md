@@ -44,7 +44,7 @@ This repo is only a list of compatible mods and you should not report bugs here,
   - Release includes all needed dependencies
 - [Questing Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-QuestingBots) - Being worked on by Private Ryan
   - Requires SAIN above
-- [Looting Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-LootingBots) - Being worked on by Private Ryan
+- [Looting Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1.1-LootingBots) - Being worked on by Private Ryan
   - Requires SAIN above
 - [Amands Graphics](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-AmandsGraphics) - Being worked on by Private Ryan
 - [Amands Sense](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-AmandsSense) - Being worked on by Private Ryan
