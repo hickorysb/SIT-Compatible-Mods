@@ -42,7 +42,7 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [Loot Value](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-LootValue) - Being worked on by Private Ryan
 - [SAIN](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1.1-SAIN) - Being worked on by Private Ryan
   - Release includes all needed dependencies
-- [Questing Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1-QuestingBots) - Being worked on by Private Ryan
+- [Questing Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1.1-QuestingBots) - Being worked on by Private Ryan
   - Requires SAIN above
 - [Looting Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/tag/v1.1-LootingBots) - Being worked on by Private Ryan
   - Requires SAIN above
