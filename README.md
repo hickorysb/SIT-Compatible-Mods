@@ -25,8 +25,6 @@ This repo is only a list of compatible mods and you should not report bugs here,
   - Preferred over the following entry
 - [PreyToLive-BetterSpawnPlus+BetterSpawn Variety](https://e.pcloud.link/publink/show?code=XZPdwnZqbKETcW3gfYu4oIYg6EwhkLvrvT7)
   - RNG's Spawn Mod above is preferred as BSP may have some issues
-- [Priscilu](https://hub.sp-tarkov.com/files/file/546-priscilu-the-trader/)
-  - Known issue with armor being sold by this trader not working due to not yet having been upgraded to be compatible with v14's armor changes
 - [RamCleanerInterval](https://hub.sp-tarkov.com/files/file/1662-ram-cleaner-fix/)
 - [Live Flee Prices](https://hub.sp-tarkov.com/files/file/1561-live-flea-prices/)
 - [Remove Time Gate From Quests](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
