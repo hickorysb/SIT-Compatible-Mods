@@ -47,7 +47,6 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [Amands Graphics](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
 - [Amands Sense](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
 - [That's Lit](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
-- [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
 - [MoreCheckmarks](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
 - [Boops Quest Zone API](https://github.com/hickorysb/BoopsQuestZoneAPI-SIT-14/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
 - [Priscilu](https://drive.google.com/file/d/1ZxqkVQywHNomIvlZIhZb7pZJyIYl7-FV/view) - Being worked on by eDavid
@@ -56,3 +55,4 @@ This repo is only a list of compatible mods and you should not report bugs here,
 *NOTE: This list contains mods that were previously working, but aren't anymore due to needing an update for the latest version of EFT.*
 - [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
   - See [Installation Instructions](Guides/Installations/GamePanelHUD.md)
+- [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
