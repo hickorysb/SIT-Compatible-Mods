@@ -36,6 +36,7 @@ This repo is only a list of compatible mods and you should not report bugs here,
 
 # Work In Progress Ports
 *NOTE: Everything listed here "works", there may be bugs though*
+- [Server Value Modifier](https://drive.google.com/file/d/1x6px0r_y-1YOiTln-jCWYtVNrsI-ygqK/view) - By [GhostFenixx](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/?highlight=kmc)
 - [Loot Value](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
 - [SAIN](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
   - Release includes all needed dependencies
