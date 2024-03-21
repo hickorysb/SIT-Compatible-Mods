@@ -36,7 +36,6 @@ This repo is only a list of compatible mods and you should not report bugs here,
 
 # Work In Progress Ports
 *NOTE: Everything listed here "works", there may be bugs though*
-- [ServerValueModifier](https://mega.nz/file/0TFVxRbD#B3v5S7QEt9hh-HvfZCi92MEcIDRkBLu5n5q_cqfA5co) - Being worked on by Mihai & JustJamesR6
 - [Loot Value](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
 - [SAIN](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
   - Release includes all needed dependencies
