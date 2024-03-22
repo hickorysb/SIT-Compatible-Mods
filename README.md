@@ -37,17 +37,16 @@ This repo is only a list of compatible mods and you should not report bugs here,
 # Work In Progress Ports
 *NOTE: Everything listed here "works", there may be bugs though*
 - [Server Value Modifier](https://drive.google.com/file/d/1x6px0r_y-1YOiTln-jCWYtVNrsI-ygqK/view) - By [GhostFenixx](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/?highlight=kmc)
-- [Loot Value](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
-- [SAIN](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
-  - Release includes all needed dependencies
-- [Questing Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
+- [Loot Value](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
+- [SAIN](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
+- [Questing Bots](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
   - Requires SAIN above
-- [Looting Bots](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
+- [Looting Bots](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
   - Requires SAIN above
-- [Amands Graphics](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
-- [Amands Sense](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
+- [Amands Graphics](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
+- [Amands Sense](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
 - [That's Lit](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
-- [MoreCheckmarks](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
+- [MoreCheckmarks](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by North Western Bear (GitHub: @HickorySB)
 - [Boops Quest Zone API](https://github.com/hickorysb/BoopsQuestZoneAPI-SIT-14/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
 - [Priscilu](https://drive.google.com/file/d/1ZxqkVQywHNomIvlZIhZb7pZJyIYl7-FV/view) - Being worked on by eDavid
 
