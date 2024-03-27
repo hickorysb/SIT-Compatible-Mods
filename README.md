@@ -30,13 +30,13 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [Remove Time Gate From Quests](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
 - [Configurable Inventories](https://hub.sp-tarkov.com/files/file/1728-configureable-inventories/)
 - [True Items](https://hub.sp-tarkov.com/files/file/1651-true-items/)
+- [Server Value Modifier](https://drive.google.com/file/d/1zaWjnqhKsV70-nbO3mpgGVS9DErzmwj2/view?usp=sharing) - By [GhostFenixx](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/?highlight=kmc)
 
 # Works With Manual Modification
 - [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Small Cases Fix](Guides/Fixes/SMALLCASES.md)
 
 # Work In Progress Ports
 *NOTE: Everything listed here "works", there may be bugs though*
-- [Server Value Modifier](https://drive.google.com/file/d/1x6px0r_y-1YOiTln-jCWYtVNrsI-ygqK/view) - By [GhostFenixx](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/?highlight=kmc)
 - [Loot Value](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
 - [SAIN](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
 - [Questing Bots](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
