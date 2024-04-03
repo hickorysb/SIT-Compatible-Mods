@@ -6,18 +6,17 @@ This repo is only a list of compatible mods and you should not report bugs here,
 
 # SIT Ports
 *NOTE: Everything listed here "works", there may be bugs though*
-- [Loot Value](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-- [SAIN](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-- [Questing Bots](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-  - Requires SAIN above
-- [Looting Bots](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-  - Requires SAIN above
-- [Amands Graphics](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-- [Amands Sense](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-- [That's Lit](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
-- [MoreCheckmarks](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by North Western Bear (GitHub: @HickorySB)
-- [Boops Quest Zone API](https://github.com/hickorysb/BoopsQuestZoneAPI-SIT-14/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
-- [Priscilu](https://drive.google.com/file/d/1ZxqkVQywHNomIvlZIhZb7pZJyIYl7-FV/view) - Being worked on by eDavid
+- [Loot Value](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [Big Brain](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [Waypoints](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [SAIN](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [Questing Bots](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [Looting Bots](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [Amands Graphics](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [Amands Sense](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [That's Lit](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [MoreCheckmarks](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [BotDebug](https://github.com/stayintarkov/SIT-Mod-Ports)
 
 # Tested and Working With No Modification
 *NOTE: This list contains mods that the community has reported as working, but they might not have all been verified by the maintainers of this repo*
@@ -51,6 +50,8 @@ This repo is only a list of compatible mods and you should not report bugs here,
 
 # Currently Not Working
 *NOTE: This list contains mods that were previously working, but aren't anymore due to needing an update for the latest version of EFT/SIT.*
-- [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
+- [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/latest)
   - See [Installation Instructions](Guides/Installations/GamePanelHUD.md)
-- [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
+- [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/latest)
+- [Boops Quest Zone API](https://github.com/hickorysb/BoopsQuestZoneAPI-SIT-14/releases/latest)
+- [Priscilu](https://drive.google.com/file/d/1ZxqkVQywHNomIvlZIhZb7pZJyIYl7-FV/view)
