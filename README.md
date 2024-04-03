@@ -1,9 +1,23 @@
-# SIT 1.10.8839.30073 (EFT v0.14.1.2.29197) Compatible Mods
+# SIT 1.10.8854.18454 (EFT v0.14.1.3.29351) Compatible Mods
 This repo contains a list of mods compatible with SIT and relevant guides to installing them if the procedure differs from the standard.
 This repo is only a list of compatible mods and you should not report bugs here, do not report SIT related bugs or errors to the original mod authors. If a port is being maintained by a community member, please either report bugs to the linked repo or in the Discord.
 
 *Nested lists are requirements for the above mod*
 
+# SIT Ports
+*NOTE: Everything listed here "works", there may be bugs though*
+- [Loot Value](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
+- [SAIN](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
+- [Questing Bots](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
+  - Requires SAIN above
+- [Looting Bots](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
+  - Requires SAIN above
+- [Amands Graphics](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
+- [Amands Sense](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
+- [That's Lit](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
+- [MoreCheckmarks](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by North Western Bear (GitHub: @HickorySB)
+- [Boops Quest Zone API](https://github.com/hickorysb/BoopsQuestZoneAPI-SIT-14/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
+- [Priscilu](https://drive.google.com/file/d/1ZxqkVQywHNomIvlZIhZb7pZJyIYl7-FV/view) - Being worked on by eDavid
 
 # Tested and Working With No Modification
 *NOTE: This list contains mods that the community has reported as working, but they might not have all been verified by the maintainers of this repo*
@@ -35,23 +49,8 @@ This repo is only a list of compatible mods and you should not report bugs here,
 # Works With Manual Modification
 - [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Small Cases Fix](Guides/Fixes/SMALLCASES.md)
 
-# Work In Progress Ports
-*NOTE: Everything listed here "works", there may be bugs though*
-- [Loot Value](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-- [SAIN](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-- [Questing Bots](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-  - Requires SAIN above
-- [Looting Bots](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-  - Requires SAIN above
-- [Amands Graphics](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-- [Amands Sense](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by Private Ryan
-- [That's Lit](https://github.com/privateryann1/SIT-Mod-Ports/releases/latest) - Being worked on by Private Ryan
-- [MoreCheckmarks](https://github.com/stayintarkov/SIT-Mod-Ports) - Being worked on by North Western Bear (GitHub: @HickorySB)
-- [Boops Quest Zone API](https://github.com/hickorysb/BoopsQuestZoneAPI-SIT-14/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
-- [Priscilu](https://drive.google.com/file/d/1ZxqkVQywHNomIvlZIhZb7pZJyIYl7-FV/view) - Being worked on by eDavid
-
 # Currently Not Working
-*NOTE: This list contains mods that were previously working, but aren't anymore due to needing an update for the latest version of EFT.*
+*NOTE: This list contains mods that were previously working, but aren't anymore due to needing an update for the latest version of EFT/SIT.*
 - [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
   - See [Installation Instructions](Guides/Installations/GamePanelHUD.md)
 - [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/latest) - Being worked on by North Western Bear (GitHub: @HickorySB)
