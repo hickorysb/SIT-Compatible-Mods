@@ -30,7 +30,7 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [Remove Time Gate From Quests](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
 - [Configurable Inventories](https://hub.sp-tarkov.com/files/file/1728-configureable-inventories/)
 - [True Items](https://hub.sp-tarkov.com/files/file/1651-true-items/)
-- [Server Value Modifier](https://drive.google.com/file/d/1zaWjnqhKsV70-nbO3mpgGVS9DErzmwj2/view?usp=sharing) - By [GhostFenixx](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/?highlight=kmc)
+- [Server Value Modifier](https://hub.sp-tarkov.com/files/download/9037/) - By [GhostFenixx](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/?highlight=kmc)
 
 # Works With Manual Modification
 - [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Small Cases Fix](Guides/Fixes/SMALLCASES.md)
