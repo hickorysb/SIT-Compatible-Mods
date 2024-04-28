@@ -17,6 +17,9 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [That's Lit](https://github.com/stayintarkov/SIT-Mod-Ports)
 - [MoreCheckmarks](https://github.com/stayintarkov/SIT-Mod-Ports)
 - [BotDebug](https://github.com/stayintarkov/SIT-Mod-Ports)
+- [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/latest)
+  - See [Installation Instructions](Guides/Installations/GamePanelHUD.md)
+- [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/latest)
 
 # Tested and Working With No Modification
 *NOTE: This list contains mods that the community has reported as working, but they might not have all been verified by the maintainers of this repo*
@@ -44,14 +47,14 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [Configurable Inventories](https://hub.sp-tarkov.com/files/file/1728-configureable-inventories/)
 - [True Items](https://hub.sp-tarkov.com/files/file/1651-true-items/)
 - [Server Value Modifier](https://hub.sp-tarkov.com/files/download/9037/) - By [GhostFenixx](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/?highlight=kmc)
+- [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/latest)
+  - See [Installation Instructions](Guides/Installations/GamePanelHUD.md)
+- [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/latest)
 
 # Works With Manual Modification
 - [Small Cases](https://hub.sp-tarkov.com/files/file/1318-small-cases-now-with-fannypack/) - See [Small Cases Fix](Guides/Fixes/SMALLCASES.md)
 
 # Currently Not Working
 *NOTE: This list contains mods that were previously working, but aren't anymore due to needing an update for the latest version of EFT/SIT.*
-- [GamePanelHUD](https://github.com/hickorysb/Game-Panel-HUD-SIT-Patcher/releases/latest)
-  - See [Installation Instructions](Guides/Installations/GamePanelHUD.md)
-- [CactusPie's Minimap](https://github.com/hickorysb/SPT-Minimap/releases/latest)
 - [Boops Quest Zone API](https://github.com/hickorysb/BoopsQuestZoneAPI-SIT-14/releases/latest)
 - [Priscilu](https://drive.google.com/file/d/1ZxqkVQywHNomIvlZIhZb7pZJyIYl7-FV/view)
